@@ -1,0 +1,12 @@
+{
+  "name": "rarity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  }
+}
